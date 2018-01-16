@@ -1,4 +1,4 @@
-# 4-20mA_Loop_Current_Transmitter_XTR116U
+# 4-20mA Loop Current Transmitter XTR116U
 
 ![rdl_4-20ma-current-loop-transmitter-v2_3](https://user-images.githubusercontent.com/8509587/30512149-e73832b0-9b05-11e7-8144-3905d5036112.gif)
 
